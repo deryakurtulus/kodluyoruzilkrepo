@@ -1,0 +1,15 @@
+/* class --> .text-red {} */
+
+.red {
+    color:red;
+}
+
+.iki {
+    font-family: 'Courier New', Courier, monospace;
+}
+#başlık {
+    font-size: 30px;
+}
+h1{
+    color:green
+}
