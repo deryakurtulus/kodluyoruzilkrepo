@@ -1,0 +1,53 @@
+
+/* Giriş Sayfası 
+Hayao Miyazaki Filmleri
+Filmlerden fotoğraflar
+
+  */
+/* Ana Sayfa */
+/*  */
+
+.kiki{
+      font-size: 100px; 
+      font-family:serif;
+      text-align: center; 
+      font-style: oblique;
+
+}
+.home{
+    text-align: center;
+    font-family: serif;
+    font-size: 20px;
+    word-spacing: 200px;
+}
+
+.quote{
+    float:center;
+    margin-bottom:50%;
+    font-size: 60px;
+    font-style:serif;
+}
+.miyazaki{
+    float:right;
+    margin-right:20%;
+}
+.contact{
+    text-align: center;
+    font-size: 100px;
+    word-spacing: 50PX;
+}
+.about{
+    text-align: center;
+    font-size: 50px;
+}
+/* Görselleri veya bir metin ve görseli aynı hizada göstermek için */
+.column{
+    float:right;
+    width:33.33%;
+    padding:5px ;
+}
+.row::after{
+    content: ;
+    clear: both;
+    display: table;
+}
