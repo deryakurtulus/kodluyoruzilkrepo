@@ -1,0 +1,89 @@
+.logo {
+    text-align: center;
+}
+.searchmargin {
+    background-color:#eeeeee;
+    text-align: center;
+    font-size: 16px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: -20px;
+    height: 65px;
+}
+.searchbox{
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: -16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+    border:solid;
+    border-width:1px;
+    border-radius: 2px;
+    border-color: black;
+}
+.bt1{
+    background-color: #efefef;
+    border:1px; border-color:black;
+    height: 16px;
+    width: 100px;
+    margin: -16px auto 0px 705px;
+    font-size:15px;
+    border:solid;
+    border-width: 1px;
+    border-radius: 2px;
+    padding-top: -10px;
+
+}
+.bt2{
+    background-color: #efefef;
+    border:1px; border-color:black;
+    height: 16px;
+    width: 120px;
+    margin: -18px auto 0 815px;
+    font-size: 15px;
+    border:solid;
+    border-width: 1px;
+    border-radius: 2px;
+}
+.firstbox {
+    background-color: #7ee5da;
+    text-align:center;
+    font-size: 16px;
+    margin:-14px 100px 0px 100px;
+    height: 75px;
+    width: 600px;
+}
+.secondbox{
+    background-color: #70ccc2;
+    text-align: center;
+    font-size: 12px;
+    margin:-87px 100px 100px 702px;
+    height: 75px;
+    width: 316px;
+}
+.thirdbox{
+    background-color: #62b3aa;
+    text-align: center;
+    font-size: 16px;
+    margin:-175px 180px 100px 1020px;
+    height: 75px;
+    width: 728px;
+} 
+.mailbox {
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: -10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    text-align: left;
+    border:solid;
+    border-width: 1px;
+    border-radius: 1px;
+}
+.archive{
+    padding-left: 60px;
+}
