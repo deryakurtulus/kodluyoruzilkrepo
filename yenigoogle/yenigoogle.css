@@ -1,0 +1,128 @@
+.logo{
+    margin: 215px 790px;
+}
+.container {
+    text-align: center;
+    margin: 100px;
+  }
+.oturum{
+    background-color:#1A73E8;
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding-top: 9px;
+    margin:-60px 1700px 0px 1710px;
+    border-radius: 5px;
+    width: 125px;
+    height: 25px;
+}
+.dots{
+    margin:-70px 1500px 15px 1660px;
+}
+.yazı{
+    margin-left: 1540px;
+    margin-bottom: -10px;
+    word-spacing: 10px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.search{
+    border:solid;
+    border-color: #efefef;
+    border-width: 1px;
+    border-radius: 40px;
+    width: 600px;
+    height: 45px;
+    margin: -200px 640px;
+}
+.searchicons{
+    margin: -19px 0 0 490px;
+}
+.bt{
+    border-radius: 3px; background-color: #F8F9FA;
+    width:110px; height: 20px; text-align: center; 
+    padding-top: 10px;padding-bottom: 5px; 
+    font-family: Arial, Helvetica, sans-serif; font-size: 14px;
+}
+.border{
+    height: 30px;
+    width: 100%;
+    margin-top: 320px;
+    bottom: 0;
+    left:0;
+    position: fixed;
+}
+.border2{
+    height: 30px;
+    width: 100%;
+    margin-top: 500px;
+    margin-bottom: 250px;
+}
+.alt1{
+    margin-bottom: 30px;
+    padding: 15px 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    border-bottom: 1px solid #dadce0;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(218, 220, 224);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #70757a;
+    background-color: #f2f2f2;
+}
+.alt4{
+    padding: 15px 30px;
+    margin-top: -30px;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #70757a;
+    background-color: #f2f2f2;
+}
+.alt2{
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+}
+.footer {
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+ }
+ .alt3{
+    padding: 15px 30px;
+    margin-top: -50px;
+    padding-top: 0px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 1600px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #70757a;
+ }
+ .alt5{
+    padding: 15px 30px;
+    margin-top: -50px;
+    padding-top: 0px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 1600px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #70757a;
+ }
